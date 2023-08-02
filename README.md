@@ -1,1 +1,1 @@
-# DMG2023_Diffusion
+# DMG summer course 2020 - Diffusion modelling
